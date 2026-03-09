@@ -1,4 +1,4 @@
-# CodeAlpha_BasicChaatbot
+# CodeAlpha_BasicChatbot
 Basic Chatbot --  a simple rule-based chatbot that gives predefined replies.
 
 
